@@ -1,2 +1,3 @@
 # Focus-Team
-It cantains inform of virgia fom
+It cantains information of virgia forum.
+every can see this this for use info.
